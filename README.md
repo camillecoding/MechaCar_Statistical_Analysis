@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis
+# MechaCar Statistical Analysis
 In this statistical analysis, we evaluate statistical results on a prototype car to provide a company with some useful insights on its performance. 
 
 ## Linear Regression to Predict MPG ##
