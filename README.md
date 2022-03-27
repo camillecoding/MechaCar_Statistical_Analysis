@@ -13,4 +13,6 @@ Based on these results, we can extract some key insights from this data. First, 
 
 <img width="917" alt="Screen Shot 2022-03-24 at 9 03 16 PM" src="https://user-images.githubusercontent.com/95657458/160034585-8066ed29-fa42-460c-ab42-7ec34094363e.png">
 
-The design specifications for this prototype car require that the suspension coils not exceed 100 lbs per square inch. According to this manufacturing data, the prototype exceeds these requirements. 
+The design specifications for this prototype car require that the suspension coils not exceed 100 lbs per square inch. According to this manufacturing data, the prototype in Lot 3 exceeds these requirements. The mean and median are lower than the expected values. More importantly, the variance (170) and standard deviation (13.0) in this lot are well above the expected values of  62.29 and 7.89, respectively.
+
+## T-Tests on Suspension Coils ##
