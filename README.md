@@ -16,3 +16,10 @@ Based on these results, we can extract some key insights from this data. First, 
 The design specifications for this prototype car require that the suspension coils not exceed 100 lbs per square inch. According to this manufacturing data, the prototype in Lot 3 exceeds these requirements. The mean and median are lower than the expected values. More importantly, the variance (170) and standard deviation (13.0) in this lot are well above the expected values of  62.29 and 7.89, respectively.
 
 ## T-Tests on Suspension Coils ##
+
+## Study Design: MechaCar vs. Competition ##
+
+I recommend an additional study to make MechaCar a more effective competitor. Many consumers are more aware of environmental impact, and MechaCar should consider testing their fuel effiency and emissions against those of similar competitors. The null hypothesis is that consumers will purchase vehicles regardless of fuel efficiency or emissions. Rephrased, that is that neither fuel efficiency nor emissions have an effect on purchase volume. My alternative hyptohesis is that higher fuel efficiency and lower emissions will result in a higher purchase volume. There is a positive correlation between fuel efficiency and purchase volume, whereas there is a negative correlation between emissions and purchase volume. 
+
+To run this statistical test, I need data on purchase volume for MechaCar and similar competitors over a few years. I also need data from the same time period of fuel efficiency and emissions from each of these manufacturers. I would run a t-test to determine if my results refute a null hypothesis.
+
