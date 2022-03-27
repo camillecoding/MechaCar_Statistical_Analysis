@@ -17,6 +17,23 @@ The design specifications for this prototype car require that the suspension coi
 
 ## T-Tests on Suspension Coils ##
 
+This section conducts T-Tests on the suspension coils to verify whether they reach the mean value of 1500.
+<img width="461" alt="Screen Shot 2022-03-27 at 1 31 46 PM" src="https://user-images.githubusercontent.com/95657458/160293352-032c3ad0-b7df-4ad0-8dc6-7e272afadfef.png">
+
+
+I also tested each lot against the population's mean to determine which lots, if any, are underperforming. 
+
+Lot One
+<img width="412" alt="Screen Shot 2022-03-27 at 1 33 29 PM" src="https://user-images.githubusercontent.com/95657458/160293408-6b134c5d-df3f-40b6-b88b-6f89178e5578.png">
+
+Lot Two
+<img width="412" alt="Screen Shot 2022-03-27 at 1 33 47 PM" src="https://user-images.githubusercontent.com/95657458/160293418-cd7a3cc3-48a5-4b92-9992-9b73f42cad33.png">
+
+Lot Three
+<img width="416" alt="Screen Shot 2022-03-27 at 1 34 02 PM" src="https://user-images.githubusercontent.com/95657458/160293428-03641877-dde4-4945-9c21-ae1645453cf9.png">
+
+Lot 1 and 2 are performing satisfactorily because they either reach or exceed the population mean of 1500. Lot 3 is underperforming because it did not reach the population threshold of 1500.
+
 ## Study Design: MechaCar vs. Competition ##
 
 I recommend an additional study to make MechaCar a more effective competitor. Many consumers are more aware of environmental impact, and MechaCar should consider testing their fuel effiency and emissions against those of similar competitors. The null hypothesis is that consumers will purchase vehicles regardless of fuel efficiency or emissions. Rephrased, that is that neither fuel efficiency nor emissions have an effect on purchase volume. My alternative hyptohesis is that higher fuel efficiency and lower emissions will result in a higher purchase volume. There is a positive correlation between fuel efficiency and purchase volume, whereas there is a negative correlation between emissions and purchase volume. 
